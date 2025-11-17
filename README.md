@@ -116,4 +116,4 @@ You can view complete training steps inside:
 Ramesh Reddy Musku
 Master’s Student | AI/ML Engineer Aspirant
 GitHub: https://github.com/Rameshreddymusku
-LinkedIn: (Add your link)
+LinkedIn: (https://www.linkedin.com/in/ramesh-mlengineer/)
