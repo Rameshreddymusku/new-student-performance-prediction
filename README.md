@@ -38,3 +38,82 @@ The objective is to apply the full ML workflow:
 	•	Model training & evaluation
 	•	Saving model with joblib
 	•	Deploying using Streamlit
+
+
+	## 🧠 Tech Stack
+
+| Area            | Tools            |
+|-----------------|------------------|
+| Programming     | Python           |
+| ML              | Scikit-Learn     |
+| Data Handling   | Pandas, NumPy    |
+| Model Saving    | Joblib           |
+| Deployment      | Streamlit        |
+| Analysis        | Jupyter Notebook |
+
+📂 Repository Structure
+
+new-student-performance-prediction/
+│── app.py                     # Streamlit web application
+│── requirements.txt           # All dependencies
+│── README.md                  # Project documentation
+│
+├── data/
+│   └── student_performance.csv
+│
+├── models/
+│   └── best_model.pkl         # Trained Machine Learning model
+│
+├── notebooks/
+│   └── EDA_and_Training.ipynb # Notebook used for training
+│
+└── src/
+    └── utils.py               # Helper scripts (if any)
+
+	Model Training Summary
+
+The model was trained using:
+	•	Data preprocessing
+	•	Label encoding for categorical variables
+	•	Hyperparameter tuning
+	•	Regression algorithms
+	•	Performance evaluation
+	•	Final model saved as best_model.pkl
+
+You can view complete training steps inside:
+
+📄 notebooks/EDA_and_Training.ipynb
+
+
+🎨 Streamlit App Features
+	•	Clean and responsive UI
+	•	Dropdowns for categorical inputs
+	•	Sliders and number boxes for numeric inputs
+	•	Automatic encoding of all categorical values
+	•	Instant prediction
+	•	Error-handling in case of wrong inputs
+	•	Professional and recruiter-friendly design
+
+⸻
+
+📸 Screenshots
+
+(Add screenshots of your app once deployed — upload images here in GitHub and insert links.)
+
+⸻
+
+⭐ Future Enhancements
+	•	Improve UI/UX with modern themes
+	•	Add feature importance (SHAP values)
+	•	Add batch prediction using CSV upload
+	•	Add charts and insights dashboard
+	•	Support multiple ML models
+
+⸻
+
+👨‍💻 Author
+
+Ramesh Reddy Musku
+Master’s Student | AI/ML Engineer Aspirant
+GitHub: https://github.com/Rameshreddymusku
+LinkedIn: (Add your link)
