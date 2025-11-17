@@ -4,7 +4,7 @@ import joblib
 from sklearn.preprocessing import LabelEncoder
 
 # Load the trained model
-model = joblib.load("best_model.pkl")
+model = joblib.load("models/best_model.pkl")
 
 # Feature list (must match EXACT training order)
 feature_names = [
